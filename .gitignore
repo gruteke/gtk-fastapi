@@ -1,3 +1,4 @@
+fastapi_ml/env/
 fastapi-ml/__pycache__/main.cpython-38.pyc
 fastapi-ml/env/lib/python3.8/site-packages/__pycache__/typing_extensions.cpython-38.pyc
 fastapi-ml/env/lib/python3.8/site-packages/asgiref/__pycache__/__init__.cpython-38.pyc
